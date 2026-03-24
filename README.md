@@ -1,16 +1,16 @@
 ##index.html
 
-1) ₩<link rel="stylesheet" href="style.css">₩
+1) `<link rel="stylesheet" href="style.css">`
 - 스타일 시트 불러오기
 
-2) <input id="display" readonly>
+2) `<input id="display" readonly>`
 - 사용자에게 입력 받음/ 읽기 전용
 
-3) <button onclick="appendToDisplay('+')" class="operator-btn">+</button>
+3) `<button onclick="appendToDisplay('+')" class="operator-btn">+</button>`
 - onclick = 클릭 이벤트
 - appendToDisplay('+') = 함수 호출
 
-4) <script src = "index.js"></script>
+4) `<script src = "index.js"></script>`
 - <script></script> = 자바스크립트 실행 태그
 
 
