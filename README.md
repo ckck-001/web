@@ -1,6 +1,6 @@
 ##index.html
 
-1) <link rel="stylesheet" href="style.css">
+1) ₩<link rel="stylesheet" href="style.css">₩
 - 스타일 시트 불러오기
 
 2) <input id="display" readonly>
